@@ -1,0 +1,59 @@
+# Node modules (for Node.js projects)
+node_modules/
+
+# Environment files
+.env
+
+# Log files
+*.log
+
+# Build output directories
+dist/
+build/
+out/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Dependency directories
+*.d
+*.a
+*.so
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# JavaScript/TypeScript specific
+*.tsbuildinfo
+
+# Angular specific
+.angular/
+src/**/*.css.d.ts
+
+# Other specific files
+*.db
+*.sqlite
+*.pkl
+*.h5
